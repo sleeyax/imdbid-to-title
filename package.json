@@ -1,0 +1,24 @@
+{
+  "name": "imdbid-to-title",
+  "version": "1.0.0",
+  "description": "Convert IMDB id to a movie title",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sleeyax",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sleeyax/imdbid-to-title"
+  },
+  "keywords": [
+    "imdb",
+    "imdb scraper",
+    "imdb to title"
+  ]
+}
