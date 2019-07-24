@@ -1,6 +1,6 @@
 {
   "name": "imdbid-to-title",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Convert IMDB id to a movie title",
   "main": "src/index.js",
   "scripts": {
